@@ -30,7 +30,16 @@
 
     {% include tracking-header.html %}
 
+	<style>.fb_dialog {
+    bottom: 90px !important;
+}
 
+.zalo-chat-widget {
+    z-index: 9999 !important;
+    right: 20px !important;
+    bottom: 10px !important;
+}
+</style>
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
