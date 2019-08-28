@@ -22,7 +22,7 @@ authors:
     messbeevn:
       name:           MessBee Vietnam
       site:           https://messbee.com
-      avatar:         /assets/images/Logo.1024.jpg
+      avatar:         assets/images/Logo.1024.jpg
       bio:            ""
       email:          messbeevn@gmail.com
       twitter:        https://twitter.com/messbeevn
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: messbeevn
-      avatar: /assets/images/Logo.1024.jpg
+      avatar: assets/images/Logo.1024.jpg
       
   # all pages
   - scope:
