@@ -1,20 +1,37 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "Hướng dẫn Thiết lập ban đầu"
 author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
-tags: [sticky]
+categories: [Hỗ trợ]
+image: assets/images/THIETLAP.png
 ---
+Để bắt đầu sử dụng, Messbee sẽ hướng dẫn bạn các bước để thiết lập ban đầu trong quá trình sử dụng.
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+**1. Cấu hình thông tin website giám sát**
 
-#### Early 18th century woodcut of Bucharest
+Trên giao diện tổng quan, bạn bấm vào Thêm mới để thêm thông tin website cần giám sát.
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
+![walking]({{ site.baseurl }}/assets/images/thietlap1.png)
+Hộp thoại **Cấu hình** hiện ra, Bạn điền đầy đủ thông tin của website.
 
-The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
+![walking]({{ site.baseurl }}/assets/images/thietlap2.JPG)
+Lựa chọn loại giám sát
 
-Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
+![walking]({{ site.baseurl }}/assets/images/thietlap3.png)
+Và phương thức nhận cảnh báo phù hợp
 
-Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.
+![walking]({{ site.baseurl }}/assets/images/thietlap4.png)
+Sau khi điền đầy đủ thông tin, bạn bấm **Lưu lại** để hoàn thành cấu hình website cần giám sát.
+
+![walking]({{ site.baseurl }}/assets/images/thietlap5.png)
+
+**2. Giao diện tổng quan**
+
+Giới thiệu giao diện tổng quan hệ thống giám sát Messbee.
+Ở giao diện tổng quan, Messbee cung cấp báo cáo chi tiết, dễ nhìn giúp bạn nhanh chóng nắm bắt tình hình hoạt động của website chỉ trong 3s.
+
+![walking]({{ site.baseurl }}/assets/images/tongquan1.JPG)
+![walking]({{ site.baseurl }}/assets/images/tongquan1.png)
+![walking]({{ site.baseurl }}/assets/images/tongquan2.png)
+![walking]({{ site.baseurl }}/assets/images/tongquan3.png)
+![walking]({{ site.baseurl }}/assets/images/tongquan4.png)
