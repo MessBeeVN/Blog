@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hướng dẫn tạo tài khoản"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Messbee là một nền tảng giám sát website với nhiều tính năng thông minh, thân thiện, dễ dàng sử dụng. Nhằm hỗ trợ khách hàng có được trải nghiệm tốt nhất các tính năng này, chúng tôi có cung cấp đăng ký tài khoản miễn phí. Trong quá trình sử dụng, Bạn sẽ được hỗ trợ đầy đủ các tính năng, mọi thắc mắc đều được đội ngũ chuyên viên giải đáp tận tình.
+Để đăng ký sử dụng miễn phí, Bạn truy cập vào trang: [www.messbee.com](https://messbee.com) > Nhấp chọn **Bắt đầu ngay**.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+image: assets/images/demo1.jpg
+
+Bạn nhập đầy đủ thông tin: số điện thoại, email…, sau đó nhấp chọn **Đăng ký**. Hoặc bạn có thể lựa chọn đăng ký bằng các tài khoản có sẵn như **Google**, **Facebook** hoặc **Microsoft**.
 
 Jekyll also offers powerful support for code snippets:
 
