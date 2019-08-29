@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hướng dẫn tạo tài khoản"
-categories: [ Jekyll ]
+categories: [ Hỗ trợ ]
 ---
 Messbee là một nền tảng giám sát website với nhiều tính năng thông minh, thân thiện, dễ dàng sử dụng. Nhằm hỗ trợ khách hàng có được trải nghiệm tốt nhất các tính năng này, chúng tôi có cung cấp đăng ký tài khoản miễn phí. Trong quá trình sử dụng, Bạn sẽ được hỗ trợ đầy đủ các tính năng, mọi thắc mắc đều được đội ngũ chuyên viên giải đáp tận tình.
 
