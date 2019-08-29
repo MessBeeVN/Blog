@@ -13,11 +13,15 @@ Trên giao diện tổng quan, bạn bấm vào Thêm mới để thêm thông t
 
 ![walking]({{ site.baseurl }}/assets/images/thietlap1.png)
 
-Hộp thoại **Cấu hình** hiện ra, Bạn điền đầy đủ thông tin của website, lựa chọn loại giám sát và phương thức nhận cảnh báo phù hợp.
+Hộp thoại **Cấu hình** hiện ra, Bạn điền đầy đủ thông tin của website.
 
 ![walking]({{ site.baseurl }}/assets/images/thietlap2.JPG)
 
+Lựa chọn loại giám sát
+
 ![walking]({{ site.baseurl }}/assets/images/thietlap3.png)
+
+Và phương thức nhận cảnh báo phù hợp
 
 ![walking]({{ site.baseurl }}/assets/images/thietlap4.png)
 
