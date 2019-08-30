@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hướng dẫn tạo tài khoản"
+author: messbeevn
 categories: [ Hỗ trợ ]
 image: assets/images/TAOTK.png
 ---

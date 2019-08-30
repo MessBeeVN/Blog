@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hướng dẫn Thiết lập ban đầu"
-author: jane
-categories: [Trang chủ]
+author: messbeevn
+categories: Trang chủ
 image: assets/images/THIETLAP.png
 ---
 Để bắt đầu sử dụng, Messbee sẽ hướng dẫn bạn các bước để thiết lập ban đầu trong quá trình sử dụng.
