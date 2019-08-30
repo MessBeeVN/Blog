@@ -4,6 +4,7 @@ title:  "Hướng dẫn Thiết lập ban đầu"
 author: messbeevn
 categories: [Hướng Dẫn]
 image: assets/images/THIETLAP.png
+tags: [sticky]
 ---
 Để bắt đầu sử dụng, Messbee sẽ hướng dẫn bạn các bước để thiết lập ban đầu trong quá trình sử dụng.
 
