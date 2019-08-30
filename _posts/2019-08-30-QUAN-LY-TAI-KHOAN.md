@@ -2,7 +2,7 @@
 layout: post
 title:  "Quản lý tài khoản"
 author: messbeevn
-categories: [ Hỗ trợ ]
+categories: [Hướng Dẫn]
 image: assets/images/QLTK.png
 
 ---
