@@ -18,7 +18,7 @@ Nếu trong quá trình sử dụng, bạn có thể thực hiện đổi m�
 
 ![walking]({{ site.baseurl }}/assets/images/caidat.png)
 
-**Bước 2:** Sau khi màn hình **Cài đặt tài khoản** hiện ra. Bạn bấm vào **Đổi mật khẩu** để thực hiện việc thay đổi mật khẩu mới.
+**Bước 2:** Sau khi màn hình **Cài đặt tài khoản** hiện ra. Bạn bấm vào **Đặt mật khẩu** để thực hiện việc thay đổi mật khẩu mới.
 
 ![walking]({{ site.baseurl }}/assets/images/caidat3.png)
 
@@ -34,11 +34,11 @@ Khi bạn đăng ký tài khoản thì mặc định sẽ có một tài khoản
 
 ![walking]({{ site.baseurl }}/assets/images/caidat2.png)
 
-**Bước 2:** Bạn dùng tài khoản (Facebook, Zalo) muộn nhận cảnh báo nhắn tin cho page Facebook hoặc Zalo của Messbee theo cú pháp **ACT AC Mabimat** để kích hoạt tài khoản đó.
+**Bước 2:** Bạn dùng tài khoản (Facebook, Zalo) muốn nhận cảnh báo nhắn tin cho page Facebook hoặc Zalo của Messbee theo cú pháp **ACT AC Mabimat** để kích hoạt tài khoản đó.
 
 Sau khi bạn nhắn tin sẽ có thông báo kích hoạt thành công được gửi lại.
 
-![walking]({{ site.baseurl }}/assets/images/themtk.JPG)
+![walking]({{ site.baseurl }}/assets/images/caidat6.png)
 
 **Bước 3:** Bạn vào mục **Thêm cấu hình** để kiểm tra các tài khoản được kích hoạt nhận cảnh báo thành công.
 
