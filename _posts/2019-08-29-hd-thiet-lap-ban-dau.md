@@ -47,3 +47,9 @@ Giới thiệu giao diện tổng quan hệ thống giám sát Messbee.
 - Phía bên dưới là lịch sử chi tiết của các lần Uptime/Downtime.
 
 ![walking]({{ site.baseurl }}/assets/images/tongquan5.png){: .center-image }
+
+Để xem chi tiết của từng website đang được giám sát trên hệ thống, bạn bấm vào **Tên giám sát** của website cần xem khi đó bên phải sẽ hiển thị ra các biểu đồ biểu thị rõ ràng ***thời gian phản hồi, lịch sử,...***
+
+![walking]({{ site.baseurl }}/assets/images/tongquan6.png){: .center-image }
+
+![walking]({{ site.baseurl }}/assets/images/tongquan7.png){: .center-image }
