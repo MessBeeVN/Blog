@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hướng dẫn tạo tài khoản"
+title:  "Bài 1: Hướng dẫn tạo tài khoản"
 author: messbeevn
 categories: [Hướng Dẫn]
 image: assets/images/TAOTK.png
