@@ -21,7 +21,6 @@ Website chết đồng nghĩa với doanh thu bị mất, tiền quảng cáo b�
 - **Response time**: Thời gian phản hồi website
 
 Khách hàng sẽ rời đi thay vì phải chờ đợi một website có tốc độ tải quá chậm. Nghiên cứu đã cho thấy việc tải chậm 1 giây có thể làm giảm 11% lượng truy cập.
-Performance from various locations
 
 - **DNS Monitoring**: Giám sát tên miền website
 
