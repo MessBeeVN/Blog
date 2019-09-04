@@ -10,7 +10,7 @@ Website của bạn có đang “chết” (**Downtime***) ngay lúc này?
 
 Nếu website của bạn vẫn hoạt động bình thường thì thật tốt quá. Nhưng giả sử như website của bạn dừng hoạt động nhiều giờ liền trong nhiều ngày nay mà bạn không biết? Doanh thu bị mất, các lượt nhấp vào quảng cáo Google Ads PPC ***(pay-per-click)*** không có giá trị, và những sự khó chịu của khách hàng khi rời đi. Bạn có sẵn sàng đối diện với những hậu quả của việc website bị gián đoạn? Infographic dưới đây sẽ cho bạn cái nhìn rõ hơn về những tác hại của downtime mà bạn sẽ phải gánh chịu nếu không có một công cụ giám sát website hiệu quả:
 
-*Downtime: Khoảng thời gian website ngừng hoạt động (thời gian “chết” của website)
+***Downtime**: Khoảng thời gian website ngừng hoạt động (thời gian “chết” của website)
 
 **Hiện trạng**
 - $7,900: Số tiền thất thoát trung bình mỗi phút khi website 1 doanh nghiệp bị downtime (Data Center Dynamics)
