@@ -32,3 +32,5 @@ Có nhiều nguyên nhân có thể dẫn đến website ngừng hoạt động.
   - Truy vấn và kiểm tra cơ sở dữ liệu MySQL và SQL Server, kiểm
   - Tính khả dụng và tải xuống cho FTP và SFTP.
 - ***GIÁM SÁT HIỆU NĂNG***: Cả giám sát uptime và khả dụng nâng cao đều là cách tốt để kiểm tra sự cố hệ thống, nhưng chúng chỉ có thể kiểm tra hiệu năng và chức năng ở mức hạn chế. Hiệu suất Web, Ứng dụng Web và Giám sát API đưa hoạt động giám sát khả dụng lên một cấp độ khác.
+
+***Nguồn: Sưu tầm***

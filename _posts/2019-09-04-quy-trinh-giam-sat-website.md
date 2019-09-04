@@ -20,6 +20,8 @@ Website chết đồng nghĩa với doanh thu bị mất, tiền quảng cáo b�
 
 - **Response time**: Thời gian phản hồi website
 
+![walking]({{ site.baseurl }}/assets/images/phanhoi.png){: .center-image }
+
 Khách hàng sẽ rời đi thay vì phải chờ đợi một website có tốc độ tải quá chậm. Nghiên cứu đã cho thấy việc tải chậm 1 giây có thể làm giảm 11% lượng truy cập.
 
 - **DNS Monitoring**: Giám sát tên miền website
@@ -30,3 +32,4 @@ Tên miền là địa chỉ của website mà người dùng ghi nhớ. Nhiệm
 
 Defacement – bôi nhọ – là một hình thức tấn công vào website phổ biến. Hacker sẽ để lại những dòng text và hình ảnh để “khoe khoang” việc hắn đã tấn công thành công vào website của bạn. Nếu bạn không muốn xuất hiện trong mắt khách hàng như vậy, hãy chú ý đến giám sát nội dung. 
 
+***Nguồn: Sưu tầm***
