@@ -2,7 +2,8 @@
 layout: post
 title:  "Những hậu quả của việc website bị gián đoạn"
 categories: [Tin Tức]
-image: assets/images/dơwntime.png
+image: assets/images/downtime.png
+
 tags: [sticky]
 ---
 Website của bạn có đang “chết” (**Downtime***) ngay lúc này?
