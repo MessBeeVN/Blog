@@ -3,7 +3,7 @@ layout: post
 title:  "Thời gian Downtime của Website là gì?"
 author: messbeevn
 categories: [Hỏi Đáp]
-image: assets/images/downtime.jpeg
+image: assets/images/downtime1.jpg
 tags: featured
 ---
 **Bạn cần biết những gì về thời gian downtime của website?**
