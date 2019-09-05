@@ -16,9 +16,9 @@ Vì vậy, hôm nay chúng tôi sẽ hướng dẫn các bạn cách làm thế 
 
 **Bước 1. Cài đặt môi trường**
 
-- Các bạn tải Visual Studio Code (VSC) tại trang <https://code.visualstudio.com>
-- Node, NPM => <https://nodejs.org>
-- Sau khi cài đặt xong các bạn mở cmd kiểm tra nhé!
+1. Các bạn tải Visual Studio Code (VSC) tại trang <https://code.visualstudio.com>
+2. Node, NPM => <https://nodejs.org>
+3. Sau khi cài đặt xong các bạn mở cmd kiểm tra nhé!
     - npm -v
     - node -v
 
