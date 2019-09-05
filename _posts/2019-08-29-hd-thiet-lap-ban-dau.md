@@ -19,7 +19,7 @@ image: assets/images/THIETLAP.png
 **Bước 3:** Bạn lựa chọn loại giám sát theo nhu cầu
 
 ![walking]({{ site.baseurl }}/assets/images/thietlap3.png){: .center-image }
-**Bước4:** Sau đó chọn phương thức nhận cảnh báo phù hợp
+**Bước 4:** Sau đó chọn phương thức nhận cảnh báo phù hợp
 
 ![walking]({{ site.baseurl }}/assets/images/cauhinh1.png){: .center-image }
 **Bước 5:** Sau khi điền đầy đủ thông tin, bạn bấm **Lưu lại** để hoàn thành cấu hình website cần giám sát.
@@ -37,7 +37,7 @@ Giới thiệu giao diện tổng quan hệ thống giám sát Messbee.
 
 ![walking]({{ site.baseurl }}/assets/images/tongquan2.png){: .center-image }
 
-- Khối thông tin bên dưới cung cấp chi tiết thông tin của các dịch vụ đang được giám sát: **Loại giám sát, tên giám sát, chu kỳ chạy**,...
+- Khối thông tin bên dưới cung cấp chi tiết thông tin của các dịch vụ đang được giám sát: **Loại giám sát, tên giám sát, chu kỳ chạy, tạm dừng giám sát, chỉnh sửa thông tin giám sát**,...
 
 ![walking]({{ site.baseurl }}/assets/images/tongquan3.png){: .center-image }
 
