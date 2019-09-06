@@ -54,3 +54,5 @@ Giới thiệu giao diện tổng quan hệ thống giám sát Messbee.
 ![walking]({{ site.baseurl }}/assets/images/tongquan6.png){: .center-image }
 
 ![walking]({{ site.baseurl }}/assets/images/tongquan7.png){: .center-image }
+
+**[ĐĂNG KÝ NGAY](https://messbee.com/?utm_source=blog&utm_campaign=blog_post&utm_medium=post)** để bắt đầu giám sát website của bạn một cách hiệu quả nhất.

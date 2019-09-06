@@ -45,3 +45,4 @@ Sau khi bạn nhắn tin sẽ có thông báo kích hoạt thành công được
 
 ![walking]({{ site.baseurl }}/assets/images/caidat5.png){: .center-image }
 
+**[ĐĂNG KÝ NGAY](https://messbee.com/?utm_source=blog&utm_campaign=blog_post&utm_medium=post)** để bắt đầu giám sát website của bạn một cách hiệu quả nhất.

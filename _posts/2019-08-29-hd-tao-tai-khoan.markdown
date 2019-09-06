@@ -21,3 +21,4 @@ Bạn lưu ý nhập chính xác email quản trị tài khoản, vì đâ
 
 Như vậy là bạn đã hoàn tất việc đăng ký tài khoản để sử dụng hệ thống giám sát website Messbee.
 
+**[ĐĂNG KÝ NGAY](https://messbee.com/?utm_source=blog&utm_campaign=blog_post&utm_medium=post)** để bắt đầu giám sát website của bạn một cách hiệu quả nhất.
