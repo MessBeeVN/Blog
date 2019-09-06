@@ -2,7 +2,7 @@
 layout: post
 title:  "Quy trình giám sát website bao gồm những gì?"
 author: messbeevn
-categories: [Tin Tức]
+categories: [Tin tức]
 image: assets/images/quytrinh.png
 tags: [sticky]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Những hậu quả của việc website bị gián đoạn"
-categories: [Tin Tức]
+categories: [Tin tức]
 image: assets/images/downtime.png
 ---
 Website của bạn có đang “chết” (**Downtime***) ngay lúc này?

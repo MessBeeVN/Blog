@@ -2,7 +2,7 @@
 layout: post
 title:  "Bài 3: Quản lý tài khoản"
 author: messbeevn
-categories: [Hướng Dẫn]
+categories: [Hướng dẫn]
 image: assets/images/QLTK.jpg
 
 ---

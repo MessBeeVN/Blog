@@ -2,7 +2,7 @@
 layout: post
 title:  "Làm sao để có chiến lược giám sát trang web hiệu quả?"
 author: messbeevn
-categories: [Tin Tức]
+categories: [Tin tức]
 image: assets/images/giamsat.png
 tags: featured
 ---
