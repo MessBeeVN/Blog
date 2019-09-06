@@ -4,7 +4,6 @@ title:  "How to Create a Chatbot - Part 1"
 author: messbeevn
 categories: [Hướng Dẫn]
 image: assets/images/chatbot.png
-tags: [sticky]
 ---
 Chào các bạn!
 

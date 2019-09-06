@@ -4,7 +4,7 @@ title:  "Quy trình giám sát website bao gồm những gì?"
 author: messbeevn
 categories: [Tin Tức]
 image: assets/images/quytrinh.png
-tags: featured
+tags: [sticky]
 ---
 Có những gì cần có trong quy trình giám sát một website?
 
