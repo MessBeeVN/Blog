@@ -9,7 +9,7 @@ permalink: "/huong-dan.html"
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Hướng dẫn</h1>
             
-        {% for category in site.categories %} 
+        {% assign category = site.categories[1] %}
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
             
         {% assign pages_list = category[1] %}
@@ -24,8 +24,6 @@ permalink: "/huong-dan.html"
         {% assign pages_list = nil %}
         {% assign group = nil %}
 
-        {% endfor %}
-        
         </div>
         
             <div class="col-md-4">
