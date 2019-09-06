@@ -4,7 +4,6 @@ title:  "Bài 3: Quản lý tài khoản"
 author: messbeevn
 categories: [Hướng Dẫn]
 image: assets/images/QLTK.jpg
-tags: featured
 
 ---
 Bài viết này chúng tôi sẽ hướng dẫn bạn cách đổi mật khẩu và thêm các tài khoản nhận cảnh báo thông qua các kênh khác nhau.
