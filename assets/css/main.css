@@ -8460,3 +8460,4 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+  .center-image { margin: 0 auto; display: block; }
