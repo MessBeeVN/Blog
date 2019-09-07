@@ -50,10 +50,10 @@ Trong quá trình sử dụng, chẳng may bạn quên mật khẩu để đăng
 
 Trên hộp thoại đăng nhập, bạn bấm **Quên mật khẩu**
 
-![walking]({{ site.baseurl }}/assets/images/quenmk.jpg){: .center-image }
+![walking]({{ site.baseurl }}/assets/images/quenmk.JPG){: .center-image }
 
 Sau đó, hộp thoại quên mật khẩu sẽ hiện ra, bạn nhập vào email đăng ký và bấm **Đặt lại**. Khi đó hệ thống sẽ gửi lại mật khẩu vào email của bạn.
 
-![walking]({{ site.baseurl }}/assets/images/quenmk1.jpg){: .center-image }
+![walking]({{ site.baseurl }}/assets/images/quenmk1.JPG){: .center-image }
 
 **[ĐĂNG KÝ NGAY](https://messbee.com/?utm_source=blog&utm_campaign=blog_post&utm_medium=post)** để bắt đầu giám sát website của bạn một cách hiệu quả nhất.
