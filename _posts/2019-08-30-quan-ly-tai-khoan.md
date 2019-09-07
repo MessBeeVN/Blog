@@ -44,4 +44,16 @@ Sau khi bạn nhắn tin sẽ có thông báo kích hoạt thành công được
 
 ![walking]({{ site.baseurl }}/assets/images/caidat5.png){: .center-image }
 
+**3. Quên mật khẩu**
+
+Trong quá trình sử dụng, chẳng may bạn quên mật khẩu để đăng nhập vào hệ thống giám sát thì bạn có thể làm theo các bước sau để lấy lại mật khẩu.
+
+Trên hộp thoại đăng nhập, bạn bấm **Quên mật khẩu**
+
+![walking]({{ site.baseurl }}/assets/images/quenmk.jpg){: .center-image }
+
+Sau đó, hộp thoại quên mật khẩu sẽ hiện ra, bạn nhập vào email đăng ký và bấm **Đặt lại**. Khi đó hệ thống sẽ gửi lại mật khẩu vào email của bạn.
+
+![walking]({{ site.baseurl }}/assets/images/quenmk1.jpg){: .center-image }
+
 **[ĐĂNG KÝ NGAY](https://messbee.com/?utm_source=blog&utm_campaign=blog_post&utm_medium=post)** để bắt đầu giám sát website của bạn một cách hiệu quả nhất.
