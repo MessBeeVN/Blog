@@ -13,7 +13,7 @@ Vậy bạn sẽ phải theo dõi trang web của bạn cả ngày để kiểm 
 
 Nếu bạn không muốn để mất bất kỳ điều gì trong số chúng, bạn sẽ phải tìm một cái gì đó để kiểm tra thời gian chết trang web của bạn. Dựa trên nhu cầu đó chúng tôi cho ra mắt hệ thống giám sát website liên tục để hỗ trợ các bạn trong việc kiểm soát các website của mình một cách hiệu quả nhất.
 
-MessBee theo dõi trang web của bạn cứ tối thiểu 1 phút một lần và cảnh báo bạn khi có thời gian chết. 
+**MessBee** theo dõi trang web của bạn cứ tối thiểu 1 phút một lần và cảnh báo bạn khi có thời gian chết. 
 - Giúp theo dõi HTTP (s), Ping, Port, Service và kiểm tra Keywords. 
 - Nhận cảnh báo tức thời qua E-mail, Facebook, Zalo,... nếu có bất kỳ vấn đề gì với trang web của bạn. 
 - Giám sát đồng thời nhiều website.
