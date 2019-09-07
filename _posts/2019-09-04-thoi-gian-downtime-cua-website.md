@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thời gian Downtime của Website là gì?"
+title:  "Thời gian Downtime của website là gì?"
 author: messbeevn
 categories: [Hỏi đáp]
 image: assets/images/downtime1.jpg

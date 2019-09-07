@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bài 2: Hướng dẫn Thiết lập ban đầu"
+title:  "Bài 2: Hướng dẫn thiết lập ban đầu"
 author: messbeevn
 categories: [Hướng dẫn]
 image: assets/images/THIETLAP.png
